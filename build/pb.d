@@ -1,0 +1,24 @@
+d:/Zhimeng/Software/MaximSDK/Examples/MAX78000/CNN/yolov1_demo2/build/pb.o: \
+ d:\zhimeng\software\maximsdk\libraries\boards\max78000\source\pb.c \
+ d:\zhimeng\software\maximsdk\tools\gnutools\lib\gcc\arm-none-eabi\9.2.1\include\stddef.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_device.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/max78000.h \
+ d:\zhimeng\software\maximsdk\tools\gnutools\lib\gcc\arm-none-eabi\9.2.1\include\stdint.h \
+ d:\zhimeng\software\maximsdk\tools\gnutools\arm-none-eabi\include\stdint.h \
+ d:\zhimeng\software\maximsdk\tools\gnutools\arm-none-eabi\include\machine\_default_types.h \
+ d:\zhimeng\software\maximsdk\tools\gnutools\arm-none-eabi\include\sys\features.h \
+ d:\zhimeng\software\maximsdk\tools\gnutools\arm-none-eabi\include\_newlib_version.h \
+ d:\zhimeng\software\maximsdk\tools\gnutools\arm-none-eabi\include\sys\_intsup.h \
+ d:\zhimeng\software\maximsdk\tools\gnutools\arm-none-eabi\include\sys\_stdint.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/CMSIS/Include/core_cm4.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/CMSIS/Include/core_cmInstr.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/CMSIS/Include/core_cmFunc.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/CMSIS/Include/core_cm4_simd.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/system_max78000.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_errors.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_pins.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/gpio.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gpio_regs.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_assert.h \
+ d:\zhimeng\software\maximsdk\libraries\boards\max78000\include\pb.h \
+ d:/Zhimeng/Software/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/gpio.h
