@@ -11,7 +11,7 @@ The DNN model for the detection is deployed on MAX78000;
 and the I/O devices include a camera and a screen for image acquisition and output exhibition, respectively. 
 
 <div align=center>
-<img width="600" height="200" src="https://github.com/datamllab/BED_GUI/blob/main/figures/GUI_pipeline.png">
+<img width="450" height="200" src="https://github.com/datamllab/BED_GUI/blob/main/figures/GUI_pipeline.png">
 </div>
 
 ### GUI ai8x Environment install
@@ -31,11 +31,11 @@ python run_demo.py -c COM4
 Click the **Load Image** button and then select the image in test_images folder.
 
 <div align=center>
-<img width="600" height="200" src="https://github.com/datamllab/BED_GUI/blob/main/figures/GUI_guide.png">
+<img width="250" height="200" src="https://github.com/datamllab/BED_GUI/blob/main/figures/GUI_guide.png">
 </div>
 
 Once you selected the test image, it will show the detection results on the GUI, including the top-3 classification results and detection bounding box, as follows: 
 
 <div align=center>
-<img width="600" height="200" src="https://github.com/datamllab/BED_GUI/blob/main/figures/GUI_guide2.png">
+<img width="250" height="200" src="https://github.com/datamllab/BED_GUI/blob/main/figures/GUI_guide2.png">
 </div>
